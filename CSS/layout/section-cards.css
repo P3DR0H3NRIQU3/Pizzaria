@@ -1,0 +1,24 @@
+.sec-cards{
+    display: flex;
+    gap: 36px;
+    margin-left: 96px;
+    margin-top: 150px;
+
+}
+.sec-cards2{
+    display: flex;
+    gap: 36px;
+    margin-left: 96px;
+    margin-top: 150px;
+}
+.imagem__pizza{
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+}
+.text-title{
+    font-size: 50px;
+    color: #ffc037;
+    margin-left: 8%;
+    font-family: var(--font-family-merienda);
+}

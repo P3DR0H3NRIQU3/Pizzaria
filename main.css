@@ -1,0 +1,11 @@
+@import "CSS/BASE/reset.css";
+@import "CSS/BASE/typografhy.css";
+@import "CSS/BASE/variaveis.css";
+@import "CSS/layout/header.css";
+@import "CSS/layout/nav.css";
+@import "CSS/MODULE/button.css";
+@import "CSS/MODULE/card.css";
+@import "CSS/layout/section-cards.css";
+@import "CSS/layout/promo.css";
+@import "CSS/body.css";
+@import "CSS/layout/footer.css"

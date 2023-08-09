@@ -1,0 +1,23 @@
+.img-promo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+
+}
+.img-promo2{
+    height: 150px;
+    width: 300px;
+    border-radius: 25px;
+}
+.img-promo3{
+    height: 150px;
+    width: 300px;
+    border-radius: 25px;
+}
+.img-promo4{
+    height: 150px;
+    width: 300px;
+    border-radius: 25px;
+}

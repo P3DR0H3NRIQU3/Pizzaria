@@ -1,0 +1,30 @@
+header{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 100px 100px auto;
+    position: relative;
+}
+nav {
+    grid-column: 1/13;
+    grid-row-start: 1;
+}
+.msg__principal {
+    grid-column: 2/4;
+    grid-row-start: 3;
+    color: #ffc037;
+}
+.imagem-principal{
+    grid-column: 8/13;
+    grid-row-start: 2;
+    z-index: 1;
+}
+.arredondada{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 450px;
+    height: 450px;
+    background-color: #da582f;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@200&display=swap');
+.text-small{
+    font-size: var(--t-12);
+    font-family: var(--font-family);
+}
+.text-medium{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: var(--t-16);
+    font-family: var(--font-family-merienda);
+}
+.text-large{
+    font-size: var(--t-18);
+    font-family: var(--font-family);
+    font-weight: 700;
+}
+.titulo__principal{
+    font-size: 48px;
+    font-family: var(--font-family-merienda);
+}

@@ -1,0 +1,36 @@
+footer{
+    border-radius: top 10px;
+    background-color: #ffc037;
+    height: 450px;
+    width: 100%;
+}
+.img-rdp{
+    display: flex;
+    gap: 10px;
+    margin-left: 47%;
+}
+#title-rdp{
+    margin-left: 43%;
+    color: #da582f;
+    font-size: 25px;
+    font-family: var(--font-family-merienda);
+}
+.maps-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+
+}
+.maps-img{
+    display: flex;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+
+}
+.txt-edrc{
+    font-size: 20px;
+    color:#da582f;
+}

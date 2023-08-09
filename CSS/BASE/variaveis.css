@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+@import url('https://fonts.googleapis.com/css2? família= Noto+Sans:wght@100 & display=swap');
+:root {
+    --cor-do--fundo: #250000;
+    --t-12: 12px;
+    --t-16: 16px;
+    --t-18: 18px;
+    --font-family-noto-sans: "Noto Sans";
+    --font-family-merienda: "Merienda";
+
+    --cor-branca: white;
+    --cor-preta: black;
+    
+}
